@@ -1,2 +1,2 @@
-nemr:hirai haruka
+name:hirai haruka
 age:21

@@ -1,2 +1,2 @@
-name:satorin
-age :25
+name:itorinn
+age :20
